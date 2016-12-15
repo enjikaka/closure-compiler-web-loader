@@ -1,6 +1,6 @@
 {
   "name": "closure-compiler-web-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack loader for closure compiler",
   "main": "index.js",
   "scripts": {
