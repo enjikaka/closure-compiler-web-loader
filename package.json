@@ -1,0 +1,26 @@
+{
+  "name": "closure-compiler-web-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for closure compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enjikaka/closure-compiler-web-loader.git"
+  },
+  "keywords": [
+    "closure",
+    "compiler",
+    "webpack",
+    "webpack",
+    "loader"
+  ],
+  "author": "Jeremy Karlsson <karlsson@jeremy.se>",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/enjikaka/closure-compiler-web-loader/issues"
+  },
+  "homepage": "https://github.com/enjikaka/closure-compiler-web-loader#readme"
+}
